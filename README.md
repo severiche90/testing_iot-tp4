@@ -21,7 +21,7 @@ tercer resultado no patrocinado.
 
 A continuacion se comparte un video, donde se muestra el funcionamiento del testing.
 
-Link : [this link](https://drive.google.com/drive/folders/1L823ArLx24sjOKDyIMzzo0q1HG4t3xGc?usp=sharing) 
+Link : https://drive.google.com/drive/folders/1L823ArLx24sjOKDyIMzzo0q1HG4t3xGc?usp=sharing
 
 ### Herramientas utilizadas para la implementacion
 
