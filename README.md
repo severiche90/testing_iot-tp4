@@ -1,6 +1,6 @@
 # Testing en sistemas de Internet De las Cosas
 
-## Trabajo practico Nª4 Testing WEB
+## Trabajo practico Nª4 Testing Web
 
 Autor:
 
@@ -9,7 +9,7 @@ Autor:
 Docentes:
 
 * Carlos Pantelides.
-* Esp. Ing. Alejandro permingeat
+* Esp. Ing. Alejandro Permingeat
 * Esp. Ing. Estevan Volentini
 
 ### Consignas:
